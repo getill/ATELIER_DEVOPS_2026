@@ -10,7 +10,7 @@ Vous allez prendre une petite application Flask et la faire passer **de « ça t
 
 - conteneurisée (Docker)
 - validée automatiquement (tests + lint en CI)
-- durcie (secrets, scan de vulnérabilités, utilisateur non-root)
+- durcie (secrets, scan de vulnérabilités, utilisateur non-root) 
 - publiée (registry d'images)
 - exposable publiquement à un évaluateur via une URL temporaire (Ngrok)
 
